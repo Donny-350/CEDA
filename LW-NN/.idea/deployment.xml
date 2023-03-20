@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@region-41.seetacloud.com:13003 password" remoteFilesAllowedToDisappearOnAutoupload="false" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="AutoDL1">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/forestCode/LW-XGB" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mscn">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/forestHistogram/LW-XGB" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:13003 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/forestCode/LW-XGB" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zilongw1@211.71.75.145:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zilongw1/finalCECode/forest/LW-XGB" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
