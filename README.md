@@ -36,7 +36,7 @@ python trainDA.py
 In order to compare with LW-NN, we reproduced its code. You can run the train.py training model under the LW-NN folder, and test the model effect with test.py.
 
 ```shell
-cd Lw-NN
+cd LW-NN
 python train.py
 python test.py
 ```
